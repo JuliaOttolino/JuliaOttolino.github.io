@@ -6,19 +6,19 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: We Have 2 Cents
 
 # Your name to show in the footer
-author: Some Person
+author: Julia Ottolino
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Data Source:
+    - The World Bank: "https://www.worldbank.org/"
+    - BLs Beta Labs: "https://beta.bls.gov/"
+  Author's home: "https://juliaottolino.github.io/"
 
 # --- Logo --- #
 
@@ -39,15 +39,15 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  #email: "someone@example.com"
+  #facebook: deanattali
+  github: JuliaOttolino
+  twitter: Ott01love
+  #patreon: DeanAttali
+  #youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: Julia-Ottolino
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -72,13 +72,13 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "https://juliaottolino.github.io/"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -99,16 +99,16 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+navbar-col: "#050505"
+navbar-text-col: "#aecc93"
+navbar-border-col: "#1e3609"
+page-col: "#30382a"
+text-col: "#aecc93"
+link-col: "##416124"
+hover-col: "#70c722"
+footer-col: "#050505"
+footer-text-col: "#aecc93"
+footer-link-col: "#416124"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
