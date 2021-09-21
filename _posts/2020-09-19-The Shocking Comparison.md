@@ -4,7 +4,7 @@ title: We Have 2 Cents
 subtitle: The Absence of Disposable Income
 _Author: Julia Ottolino_
 #cover-img: /SLACK PHOTO.jpg
-thumbnail-img: "/assets/img/DI box plot.png"
+thumbnail-img: "/SLACK PHOTO.jpg"
 #share-img: /SLACK PHOTO.jpg
 ---
 
