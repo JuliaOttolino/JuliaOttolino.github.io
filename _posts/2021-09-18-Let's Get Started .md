@@ -32,7 +32,7 @@ To complete my data sets, I went onto TheWorldBank.org’s Data Bank and retriev
 
 After organizing all of the data into usable data-frames, it was time to finally see all of the quintile’s Average Disposable Income Percentages (DI%) in comparison to one another. I chose to implement this with stacked boxplots. 
 
-img: ->!(/assets/img/DI box plot.png)<-
+img: ->!(/assets/DI box plot.png)<-
 
 The image above gives us loads of information.
 
