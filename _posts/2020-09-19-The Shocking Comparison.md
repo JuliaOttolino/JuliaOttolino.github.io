@@ -23,3 +23,54 @@ Now let’s look at our middle class, the third quintile. The range is much more
 When we get to the fourth quintile, we finally see an income class that has the mean of its data points sitting at the breakeven-point (0). Still, about half of the dataset’s years has the fourth quintile income bracket seeing negative average disposable income percentages.
 It isn’t until we get all the up to the top quintile, do we see all over the data points for the 37-year period sitting in the positives. It is such a jump, too. The lucky echelon of our society sees their lowest outlier year at the breakeven-point, and the majority of their years they are seeing DI% at about 25%.
 (Keep in mind, the top quintile’s 25% of annual disposable income looks __a lot__ different than the lower quintile’s 25% of DI.)
+
+
+After looking at this boxplot, I constructed 5 different linear regression models to retrieve the p-val and to observe the Adj. R-squared.
+Chi-square Hypothesis analysis…
+Ho: There is not a relationship between Average GDP% and Average DI%.
+Ha: There is a relationship between Average GDP% and Average DI%.
+
+
+Lower quintile average disposable income compared to the average GDP% code:
+
+DIlow20 = ols('firstQ_DI_pct ~ GDP_pct_growth', data= GDP).fit()
+
+Returned… p-val = 0.088; Adj. R-squared=0.054
+
+
+2nd quintile average disposable income compared to the average GDP% code:
+
+DI2nd20 = ols('secondQ_DI_pct ~ GDP_pct_growth', data= GDP).fit()
+
+Returned… p-val = 0.001; Adj. R-squared=0.251
+
+
+3rd quintile average disposable income compared to the average GDP% code:
+
+DI3rd20 = ols('thirdQ_DI_pct ~ GDP_pct_growth', data= GDP).fit()
+
+Returned… p-val = 0.001; Adj. R-squared=0.266
+
+
+4th quintile average disposable income compared to the average GDP% code:
+
+DI4th20 = ols('fourthQ_DI_pct~ GDP_pct_growth', data= GDP).fit()
+
+Returned… p-val = 0.001; Adj. R-squared=0.253
+
+
+Top quintile average disposable income compared to the average GDP% code:
+
+DITop20 = ols('TopQ_DI_pct ~ GDP_pct_growth', data= GDP).fit()
+
+Returned… p-val = 0.001; Adj. R-squared=0.271
+
+
+Conclusion:
+*When comparing the lowest quintile average disposable income compared to the average GDP%, we fail to reject the null hypothesis at the alpha = 0.05 level. There is no relationship between Average GDP% and Average DI%.
+* When comparing the 2nd, 3rd, 4th and Top quintile average disposable income compared to the average GDP%, we reject the null hypothesis at the alpha = 0.05 level. There is a relationship between Average GDP% and Average DI%.
+* We can say that about 27.1% of the variability in the Top quintile’s DI% can be explained by differences in the Average GDP%.
+* We can say that about 25.3% of the variability in the 4th quintile’s DI% can be explained by differences in the Average GDP%.
+* We can say that about 26.6% of the variability in the 3rd quintile’s DI% can be explained by differences in the Average GDP%.
+* We can say that about 25.1% of the variability in the Top quintile’s DI% can be explained by differences in the Average GDP%.
+*The Top quintile reaps the biggest monetary benefits when GDP% rises rises and is most affected by GDP rises… follow the 3rd quintile then the 4th (I was surprised to see that) … and finally the 2nd quintile reaps the lowest of the monetary benefits of a rising GDP (when compared to only the top 4 quintiles)… it sits only ahead of the lowest quintile, which tested to hold no statistical monetary relevance to the GDP% whatsoever.  
