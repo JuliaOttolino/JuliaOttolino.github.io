@@ -1,15 +1,17 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+title: This Is The Satisfying Part… Answers!
+subtitle: 'Mathing' and Graphing - Graphing and ‘Mathing’ 
+gh-repo: JuliaOttolino/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+#tags: [test]
 comments: true
 ---
 
 Image input:
 ![Tux, the Linux mascot](/assets/images/tux.png)
+centered image:
+->![alt text](/link/to/img)<-
 
 
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
