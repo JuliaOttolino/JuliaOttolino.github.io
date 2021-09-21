@@ -2,6 +2,7 @@
 layout: post
 title: We Have 2 Cents 
 subtitle: The Absence of Disposable Income
+_Author: Julia Ottolino_
 #cover-img: /SLACK PHOTO.jpg
 thumbnail-img: "/assets/img/DI box plot.png"
 #share-img: /SLACK PHOTO.jpg
@@ -100,9 +101,12 @@ ___Conclusion:___
 *The Top quintile reaps the biggest monetary benefits when GDP% rises rises and is most affected by GDP rises… follow the 3rd quintile then the 4th (I was surprised to see that) … and finally the 2nd quintile reaps the lowest of the monetary benefits of a rising GDP (when compared to only the top 4 quintiles)… it sits only ahead of the lowest quintile, which tested to hold no statistical monetary relevance to the GDP% whatsoever.  
 
 
-Author: Julia Ottolino
 IG: @ott01love
+github: https://github.com/JuliaOttolin
+linkedin: Julia-Ottolino
 
 Data Source:
     - The World Bank: "https://www.worldbank.org/"
     - BLs Beta Labs: "https://beta.bls.gov/"
+    
+    
