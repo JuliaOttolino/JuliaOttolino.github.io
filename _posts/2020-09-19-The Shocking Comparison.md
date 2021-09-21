@@ -1,11 +1,12 @@
 ---
 layout: post
 title: The Shocking Comparison 
-subtitle: /The Absence of Disposable Income
+subtitle: The Absence of Disposable Income
 #cover-img: /SLACK PHOTO.jpg
 thumbnail-img: "/assets/img/DI box plot.png"
 #share-img: /SLACK PHOTO.jpg
 ---
+
 
 First thing first, I went onto BLSbetaLabs.gov and I found the data I needed for _Average Annual Income_ and _Average Annual Expenditures_ for all wage quintiles. I sourced this data back to the earliest year it supplied (1984), and retrieved the most recent year I could (2020). 
 With this raw CSV data and some simple arithmetic, I carried on to create two new comparative categories, __Average Disposable Income__ …
