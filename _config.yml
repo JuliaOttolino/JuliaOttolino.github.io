@@ -38,16 +38,16 @@
 
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
-social-network-links:
+#social-network-links:
   #email: "someone@example.com"
   #facebook: deanattali
-  github: JuliaOttolino
-  twitter: Ott01love
+  #github: https://github.com/JuliaOttolino
+  #twitter: Ott01love
   #patreon: DeanAttali
   #youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-  linkedin: Julia-Ottolino
+  #linkedin: Julia-Ottolino
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
