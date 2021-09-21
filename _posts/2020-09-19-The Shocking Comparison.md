@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Let's Get Started 
-subtitle: Source and organize the data
+title: The Shocking Comparison 
+subtitle: /The Absence of Disposable Income
 #cover-img: /SLACK PHOTO.jpg
-#thumbnail-img: "/assets/img/SLACK PHOTO.jpg"
+thumbnail-img: "/assets/img/DI box plot.png"
 #share-img: /SLACK PHOTO.jpg
 ---
 
