@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Let's Get Started 
-subtitle: Sourcing and sorting quality data
+subtitle: Sourcing and Sorting Quality Data
 cover-img: /SLACK PHOTO.jpg
 thumbnail-img: /SLACK PHOTO.jpg
 share-img: /SLACK PHOTO.jpg
