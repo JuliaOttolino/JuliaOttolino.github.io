@@ -9,16 +9,16 @@
 title: We Have 2 Cents
 
 # Your name to show in the footer
-author: Julia Ottolino
+#author: Julia Ottolino
 
 # --- List of links in the navigation bar --- #
 
-navbar-links:
-  About Me: "aboutme"
-  Data Source:
-    - The World Bank: "https://www.worldbank.org/"
-    - BLs Beta Labs: "https://beta.bls.gov/"
-  Author's home: "https://juliaottolino.github.io/"
+#navbar-links:
+ # About Me: "aboutme"
+  #Data Source:
+   # - The World Bank: "https://www.worldbank.org/"
+    #- BLs Beta Labs: "https://beta.bls.gov/"
+  #Author's home: "https://juliaottolino.github.io/"
 
 # --- Logo --- #
 
