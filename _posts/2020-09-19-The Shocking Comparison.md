@@ -28,7 +28,7 @@ To complete my data sets, I went onto TheWorldBank.org’s Data Bank and retriev
 37 years’ worth of GDP and income data will surely allow us to see if any relationships exist between Average GDP growth and Average Disposable Income Percentages per quintile.
 
 **Note: There was a ton of very tedious column organizing, but I won’t bore you with those details. Enjoy the ride.
-**Also Note: You can find my Data sources in the drop-down menu. 
+**Also Note: You can find my Data sources at the bottom of this blog. 
 
 
 After organizing all of the data into usable data-frames, it was time to finally see all of the quintile’s Average Disposable Income Percentages (DI%) in comparison to one another. I chose to implement this with stacked boxplots. 
