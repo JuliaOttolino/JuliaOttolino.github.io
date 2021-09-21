@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Shocking Comparison 
+title: We Have 2 Cents 
 subtitle: The Absence of Disposable Income
 #cover-img: /SLACK PHOTO.jpg
 thumbnail-img: "/assets/img/DI box plot.png"
