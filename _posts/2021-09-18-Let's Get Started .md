@@ -2,9 +2,9 @@
 layout: post
 title: Let's Get Started 
 subtitle: Sourcing and Sorting Quality Data
-cover-img: /SLACK PHOTO.jpg
-thumbnail-img: !(/SLACK PHOTO.jpg)
-share-img: /SLACK PHOTO.jpg
+#cover-img: /SLACK PHOTO.jpg
+#thumbnail-img: "/assets/img/SLACK PHOTO.jpg"
+#share-img: /SLACK PHOTO.jpg
 ---
 
 First thing first, I went onto BLSbetaLabs.gov and I found the data I needed for _Average Annual Income_ and _Average Annual Expenditures_ for all wage quintiles. I sourced this data back to the earliest year it supplied (1984), and retrieved the most recent year I could (2020). 
