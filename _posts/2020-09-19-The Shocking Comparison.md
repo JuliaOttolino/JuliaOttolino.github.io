@@ -92,7 +92,7 @@ __Returned… p-val = 0.001; Adj. R-squared=0.271__
 
 ___Conclusion:___
 
-*When comparing the lowest quintile average disposable income compared to the average GDP%, we fail to reject the null hypothesis at the alpha = 0.05 level. There is no relationship between Average GDP% and Average DI%.
+* When comparing the lowest quintile average disposable income compared to the average GDP%, we fail to reject the null hypothesis at the alpha = 0.05 level. There is no relationship between Average GDP% and Average DI%.
 * When comparing the 2nd, 3rd, 4th and Top quintile average disposable income compared to the average GDP%, we reject the null hypothesis at the alpha = 0.05 level. There is a relationship between Average GDP% and Average DI%.
 * We can say that about 27.1% of the variability in the Top quintile’s DI% can be explained by differences in the Average GDP%.
 * We can say that about 25.3% of the variability in the 4th quintile’s DI% can be explained by differences in the Average GDP%.
@@ -104,7 +104,7 @@ ___Conclusion:___
 
 
 Data Source:
-    - The World Bank: "https://www.worldbank.org/"
-    - BLs Beta Labs: "https://beta.bls.gov/"
+* The World Bank: "https://www.worldbank.org/"
+* BLs Beta Labs: "https://beta.bls.gov/"
     
     
