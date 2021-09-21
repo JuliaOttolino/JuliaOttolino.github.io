@@ -98,3 +98,11 @@ ___Conclusion:___
 * We can say that about 26.6% of the variability in the 3rd quintile’s DI% can be explained by differences in the Average GDP%.
 * We can say that about 25.1% of the variability in the Top quintile’s DI% can be explained by differences in the Average GDP%.
 *The Top quintile reaps the biggest monetary benefits when GDP% rises rises and is most affected by GDP rises… follow the 3rd quintile then the 4th (I was surprised to see that) … and finally the 2nd quintile reaps the lowest of the monetary benefits of a rising GDP (when compared to only the top 4 quintiles)… it sits only ahead of the lowest quintile, which tested to hold no statistical monetary relevance to the GDP% whatsoever.  
+
+
+Author: Julia Ottolino
+IG: @ott01love
+
+Data Source:
+    - The World Bank: "https://www.worldbank.org/"
+    - BLs Beta Labs: "https://beta.bls.gov/"
