@@ -10,7 +10,7 @@ comments: true
 
 After organizing all of the data into usable data-frames, it was time to finally see all of the quintile’s Average Disposable Income Percentages (DI%) in comparison to one another. I chose to implement this with stacked boxplots. 
 
-"/assets/img/DI box plot.png"
+img: "/assets/img/DI box plot.png"
 
 The image above gives us loads of information.
 
